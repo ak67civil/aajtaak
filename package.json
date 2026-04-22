@@ -1,0 +1,13 @@
+{
+  "name": "premium-telegram-bot",
+  "version": "1.0.0",
+  "description": "Premium Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "mongoose": "^8.0.0"
+  }
+}
